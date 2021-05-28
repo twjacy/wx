@@ -1,0 +1,34 @@
+Package: com.ios.wechat
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.ios.wechat_1.0.4_iphoneos-arm.deb
+Size: 5054032
+MD5sum: 25b144d458b4a57442b9373960d7f99c
+SHA1: c3153d1623a2a6f7d8215b3a048a30bb51137d3d
+SHA256: 23972e2e43ad765956956e878d8b615e6106a76337de277e534c393d138b3bb1
+Section: 微信
+Priority: optional
+Homepage: https://twjacy.top/wechat/
+Description: 微信插件，购买授权请联系 TG: twjacy
+Author: Jan
+Depiction: https://twjacy.top/wechat/
+Name: WeChat
+
+Package: com.wechat.fzye
+Version: 1.5.9-6
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wechat.fzye_1.5.9-6_iphoneos-arm.deb
+Size: 1361016
+MD5sum: 9e02cb416042a102058032b3b92fceaf
+SHA1: 6129ac062836d9b1a19b8e4a0d6a771f689d1c64
+SHA256: 5680e184f9811a866f4eaea784f255b2308ae2c23329e016f8e954d32c6fedb2
+Section: 微信
+Priority: optional
+Description: 微信插件
+Author: Jan
+Name: WeChat
+
