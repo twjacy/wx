@@ -1,19 +1,41 @@
 Package: com.ios.wechat
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.ios.wechat_1.0.3_iphoneos-arm.deb
+Size: 4542308
+MD5sum: 02b739c03466b93e2a217bcda0931a09
+SHA1: 66ed1a4ff749429f854cf0c2053f343e030087c7
+SHA256: 72a42b358bbf52d571631a36049b32f74c8b361288e60512fe2a833b2e21455b
+Section: 微信
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: 微信插件，购买授权联系 TG：twjacy 或联系微信/QQ：5889650
+Author: Jan
+Depiction: https://twjacy.github.io/wx
+Dev: Jan
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: WeChat
+
+Package: com.ios.wechat
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.ios.wechat_1.0.4_iphoneos-arm.deb
-Size: 5054032
-MD5sum: 25b144d458b4a57442b9373960d7f99c
-SHA1: c3153d1623a2a6f7d8215b3a048a30bb51137d3d
-SHA256: 23972e2e43ad765956956e878d8b615e6106a76337de277e534c393d138b3bb1
+Size: 5049316
+MD5sum: 2e2f2047adb2d6accd1e2c4e8585bf95
+SHA1: 899d375a6820b0e29c1a1bb91e53a57b10336e4a
+SHA256: 5c44a9d79fbcb9cd966fca222af4ce3cdc911ebbc52cd32e2b33fdca6b1cf514
 Section: 微信
 Priority: optional
-Homepage: https://twjacy.top/wechat/
-Description: 微信插件，购买授权请联系 TG: twjacy
+Homepage: https://twjacy.github.io/wx
+Description: 微信插件，购买授权联系 TG：twjacy 或联系微信/QQ：5889650
 Author: Jan
-Depiction: https://twjacy.top/wechat/
+Depiction: https://twjacy.github.io/wx
+Dev: Jan
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
 Package: com.wechat.fzye
