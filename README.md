@@ -112,6 +112,7 @@ Jan 微信插件 1.5.9-6 版本功能之多，深受广大用户喜欢，但是�
 - 清理未读消息
 - 一键删除所有会话
 - 解析短视频
+  - 无水印短视频下载
 
 ## 自动功能
 
@@ -221,10 +222,12 @@ TG：[https://t.me/twjacy](https://t.me/twjacy)
 ![](https://files.mdnice.com/user/164/044478ed-f4f1-47ff-8c9c-40eeeae9f487.png)
 
 主要微信：
-![](https://files.mdnice.com/user/164/da1725b6-e875-4855-b1b8-de8c3c105391.png =50%x)
+
+![](https://files.mdnice.com/user/164/da1725b6-e875-4855-b1b8-de8c3c105391.png)
 
 备用微信：
-![](https://files.mdnice.com/user/164/c6d2efc9-50fd-434b-9495-67242cce67e4.jpg =50%x)
+
+![](https://files.mdnice.com/user/164/c6d2efc9-50fd-434b-9495-67242cce67e4.jpg)
 
 
 ## 授权之后
@@ -246,3 +249,4 @@ TG：[https://t.me/twjacy](https://t.me/twjacy)
 ![](https://files.mdnice.com/user/164/61cac610-2f94-47a1-a4fc-1f62adcad5f8.png)
 
 ![](https://files.mdnice.com/user/164/4813b140-6793-4c05-8530-0386f77756b3.png)
+
