@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.ios.wechat_1.0.3_iphoneos-arm.deb
-Size: 4542308
-MD5sum: 02b739c03466b93e2a217bcda0931a09
-SHA1: 66ed1a4ff749429f854cf0c2053f343e030087c7
-SHA256: 72a42b358bbf52d571631a36049b32f74c8b361288e60512fe2a833b2e21455b
-Section: 微信
+Size: 4542648
+MD5sum: 61f942fa604c1d5b42664badc653572d
+SHA1: 2581ef8b2436c4852cfc35df7b99eb9494bf85d4
+SHA256: bae27584a834a8f673ab35206e9877f2d08da4f77e750ca018faa9265d3b7c4f
+Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 微信插件，购买授权联系 TG：twjacy 或联系微信/QQ：5889650
+Description: 微信插件，购买授权联系TG：twjacy 或联系微信/QQ：5889650
 Author: Jan
 Depiction: https://twjacy.github.io/wx
 Dev: Jan
@@ -24,14 +24,14 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.ios.wechat_1.0.4_iphoneos-arm.deb
-Size: 5049316
-MD5sum: 2e2f2047adb2d6accd1e2c4e8585bf95
-SHA1: 899d375a6820b0e29c1a1bb91e53a57b10336e4a
-SHA256: 5c44a9d79fbcb9cd966fca222af4ce3cdc911ebbc52cd32e2b33fdca6b1cf514
-Section: 微信
+Size: 5051052
+MD5sum: 936a5c8fa49bd013d0c750864d522365
+SHA1: b44f47d9f49c4de6425009c6fbbbf8746ad3787d
+SHA256: d2aa9d427a52885d4b27422f6ae632c900a1edda6031cc8f94cf0648abf9c6fb
+Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 微信插件，购买授权联系 TG：twjacy 或联系微信/QQ：5889650
+Description: 微信插件，购买授权联系TG：twjacy 或联系微信/QQ：5889650
 Author: Jan
 Depiction: https://twjacy.github.io/wx
 Dev: Jan
@@ -44,11 +44,11 @@ Architecture: iphoneos-arm
 Maintainer: Jan
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.wechat.fzye_1.5.9-6_iphoneos-arm.deb
-Size: 1361016
-MD5sum: 9e02cb416042a102058032b3b92fceaf
-SHA1: 6129ac062836d9b1a19b8e4a0d6a771f689d1c64
-SHA256: 5680e184f9811a866f4eaea784f255b2308ae2c23329e016f8e954d32c6fedb2
-Section: 微信
+Size: 1360748
+MD5sum: ca072eee81ab5e0fdfa6e5ceb20ac3da
+SHA1: 20e3b769e3fa97975b2f8df1e8d26d2155314484
+SHA256: 41bb20bbe763b5ac0e7188057573095f22291990551cab0b871c0bac348d99a1
+Section: Tweaks
 Priority: optional
 Description: 微信插件
 Author: Jan

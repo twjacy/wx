@@ -1,14 +1,24 @@
-# Jan WeChat Plus
-
 ![](https://files.mdnice.com/user/164/42f70c6b-f984-4787-ae4c-cc86041900b6.png)
+
+## 目录
+
+[TOC]
+
+## 一键添加源地址
+
+[添加到 Sileo](sileo://source/https://twjacy.github.io/wx/)
+
+[添加到 Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://twjacy.github.io/wx/)
+
+[添加到 Zebra](zbra://sources/add/https://twjacy.github.io/wx/)
+
+[添加到 Installer](installer://add/repo=https://twjacy.github.io/wx/)
 
 ## 前言
 
 Jan 微信插件 1.5.9-6 版本功能之多，深受广大用户喜欢，但是由于开发者丢失源码，不得不重头再来，1.5.9-6 版本已无法再更新，所以有了新的 WeChat 1.0 版本，具体功能如下图以及下文所述。
 
 注：由于插件名称为 WeChat 容易混淆，个人为了区别且功能属于微信增强，个人命名为 WeChat Plus，与开发者无关。
-
-![](https://odyssey-bootstrap.ohu.cc/JanWeChat1.0.2.svg)
 
 ## 更新记录
 
