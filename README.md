@@ -1,18 +1,7 @@
 ![](https://files.mdnice.com/user/164/42f70c6b-f984-4787-ae4c-cc86041900b6.png)
 
-## 目录
-
-[TOC]
-
-## 一键添加源地址
-
-[添加到 Sileo](sileo://source/https://twjacy.github.io/wx/)
-
-[添加到 Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://twjacy.github.io/wx/)
-
-[添加到 Zebra](zbra://sources/add/https://twjacy.github.io/wx/)
-
-[添加到 Installer](installer://add/repo=https://twjacy.github.io/wx/)
+## 源地址
+https://twjacy.github.io//wx
 
 ## 前言
 
