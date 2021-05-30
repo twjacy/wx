@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.ios.wechat_1.0.3_iphoneos-arm.deb
-Size: 4542648
-MD5sum: 61f942fa604c1d5b42664badc653572d
-SHA1: 2581ef8b2436c4852cfc35df7b99eb9494bf85d4
-SHA256: bae27584a834a8f673ab35206e9877f2d08da4f77e750ca018faa9265d3b7c4f
+Size: 4544368
+MD5sum: 0a6315bd7cac232593cd5b19a7fe73a6
+SHA1: b66633e98c6e3a99b83d44d261951c51a8e2dc3f
+SHA256: e761b185e0f8cbb4e2226672e5657da288b7d89756bec8c290b25518ccd34f89
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 微信插件，购买授权联系TG：twjacy 或联系微信/QQ：5889650
+Description: 微信插件，购买授权联系微信/QQ：5889650
 Author: Jan
 Depiction: https://twjacy.github.io/wx
 Dev: Jan
@@ -24,14 +24,14 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.ios.wechat_1.0.4_iphoneos-arm.deb
-Size: 5051052
-MD5sum: 936a5c8fa49bd013d0c750864d522365
-SHA1: b44f47d9f49c4de6425009c6fbbbf8746ad3787d
-SHA256: d2aa9d427a52885d4b27422f6ae632c900a1edda6031cc8f94cf0648abf9c6fb
+Size: 5052384
+MD5sum: b4fcdfb782272598ee3533f7df61d7d1
+SHA1: 38b8e30a610b290f42ed75fc993ad3552f1d5bf3
+SHA256: cd1d25ccd68069f6a20dcab00a8b726e481080fc7c133f8784ae2f8f58e41208
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 微信插件，购买授权联系TG：twjacy 或联系微信/QQ：5889650
+Description: 微信插件，购买授权联系微信/QQ：5889650
 Author: Jan
 Depiction: https://twjacy.github.io/wx
 Dev: Jan
