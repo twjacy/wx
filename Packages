@@ -58,6 +58,26 @@ Dev: Jan
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
+Package: com.ios.wechat
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.ios.wechat_1.0.6_iphoneos-arm.deb
+Size: 2521016
+MD5sum: 7eec6ae9c5163a75eb3b7cffa4849012
+SHA1: 1a35dc5277e4d9b07233f936942b7068ae2ca535
+SHA256: 2d8649a82c311b8a5f1f6e8d78c21f584f6eb5cbfc9b572ba4ee1bc6ed6493c2
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: 微信插件，购买授权联系微信/QQ：5889650
+Author: Jan
+Depiction: https://twjacy.github.io/wx
+Dev: Jan
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: WeChat
+
 Package: com.wechat.fzye
 Version: 1.5.9-6
 Architecture: iphoneos-arm
