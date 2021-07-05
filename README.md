@@ -6,8 +6,6 @@ Jan 微信插件 1.5.9-6 版本功能之多，深受广大用户喜欢，但是�
 
 注：由于插件名称为 WeChat 容易混淆，个人为了区别且功能属于微信增强，个人命名为 WeChat Plus，与开发者无关。
 
-![](https://odyssey-bootstrap.ohu.cc/JanWeChat1.0.2.svg)
-
 ## 说明
 Filza 官方源地址：**https://tigisoftware.com/cydia/**
 
