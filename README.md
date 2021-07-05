@@ -296,11 +296,13 @@ TG：[https://t.me/twjacy](https://t.me/twjacy)
 
 ![](https://files.mdnice.com/user/164/044478ed-f4f1-47ff-8c9c-40eeeae9f487.png)
 
-主要微信：
-![](https://files.mdnice.com/user/164/da1725b6-e875-4855-b1b8-de8c3c105391.png)
+WeChat：aXJvYjB0（BASE64）
 
-备用微信：
-![](https://files.mdnice.com/user/164/c6d2efc9-50fd-434b-9495-67242cce67e4.jpg)
+备用 WeChat：ZGV2Ym90（BASE64）
+
+QQ：NTg4OTY1MA==（BASE64）
+
+公众号：Jailbreaks
 
 
 ## 授权之后
