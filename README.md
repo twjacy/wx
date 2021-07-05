@@ -1,15 +1,5 @@
 ![](https://files.mdnice.com/user/164/42f70c6b-f984-4787-ae4c-cc86041900b6.png)
 
-## 一键添加源地址
-
-[添加到 Sileo](sileo://source/https://twjacy.top/wechat)
-
-[添加到 Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://twjacy.top/wechat)
-
-[添加到 Zebra](zbra://sources/add/https://twjacy.top/wechat)
-
-[添加到 Installer](installer://add/repo=https://twjacy.top/wechat)
-
 ## 前言
 
 Jan 微信插件 1.5.9-6 版本功能之多，深受广大用户喜欢，但是由于开发者丢失源码，不得不重头再来，1.5.9-6 版本已无法再更新，所以有了新的 WeChat 1.0 版本，具体功能如下图以及下文所述。
