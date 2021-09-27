@@ -338,6 +338,22 @@ Dev: Jan
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
+Package: com.rpgfarm.pulloverproapappview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
+Filename: ./debs/com.rpgfarm.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 4908
+MD5sum: f1b36b1857f909a25f8841910aa03f23
+SHA1: 2ebc6896e0bb45bf470f131811f95bf98efa2b95
+SHA256: 12a2ecf715ac6117ca129d5fa3c1247390a1f7cf66468b078414520dea49f441
+Section: Tweaks
+Description: PullOver Pro Keyboard Fix
+Author: Baw Appie <pp121324@gmail.com>
+Name: PullOver Pro Keyboard Fix
+
 Package: com.wechat.fzye
 Version: 1.5.9-6
 Architecture: iphoneos-arm
