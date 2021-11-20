@@ -215,25 +215,6 @@ Depiction: https://twjacy.github.io/wx
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
-Package: com.jan.Voice
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Jan<237523005@qq.com>
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.jan.Voice_1.0_iphoneos-arm.deb
-Size: 425188
-MD5sum: eb10f69787196b1bdfafed85744903ea
-SHA1: ec3bd00e7c04d78e31ad9cb8bd73d887b00be9f6
-SHA256: 0544e1f5aed6ed5a919c6d38c055b4ef535dfe62460e4c9d0bf5445c50fd0260
-Section: Tweaks
-Priority: optional
-Homepage: https://twjacy.github.io/wx
-Description: 微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
-Author: Jan
-Depiction: https://twjacy.github.io/wx
-Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
-Name: Voice
-
 Package: com.rpgfarm.libapappview
 Version: 1.0
 Architecture: iphoneos-arm
@@ -281,4 +262,23 @@ Priority: optional
 Description: 微信插件
 Author: Jan
 Name: WeChat
+
+Package: ios.jan.voice
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ios.jan.voice_1.1_iphoneos-arm.deb
+Size: 428888
+MD5sum: 0df746dffd9a931df5fb3b3bb5a0a6d9
+SHA1: 0c2a756d86822702d236fc332398e4e35d82bce7
+SHA256: bea329b58bd3c45320d76d49fa983501aaf8b028b958b0bb6110f72bc5ff19d2
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: 聊天界面长按右下角“+”进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Author: Jan
+Depiction: https://twjacy.github.io/wx
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: Voice
 
