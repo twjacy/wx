@@ -1,3 +1,37 @@
+Package: com.25mao.MiYou
+Version: 3.1-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.miyou_3.1-8_iphoneos-arm.deb
+Size: 3879088
+MD5sum: 839cc67d5b6a22498c0e7481a6f7310d
+SHA1: 8511c4f1d277b0bd7f1a053194d741f3d51585c8
+SHA256: 5c9d522618486a3d181a8a8efa52fb820993048b89738b6dec44617964cb18fe
+Section: Tweaks
+Priority: optional
+Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.doutu
+Version: 3.0-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.doutu_3.0-1_iphoneos-arm.deb
+Size: 902480
+MD5sum: 45e6faa2d366d6e7649b9620ce1925ba
+SHA1: 0d3baccda3286cf5aba326b20df3c69d3b601ab8
+SHA256: 6ad41391d2e9f5e884aad6607d3000f93595e65a083dbcc5de4132f1a41a004c
+Section: Tweaks
+Priority: optional
+Description: 老猫斗图助手，仅适配 Sileo 安装无红字，个人自用，如有需要自行安装。
+Author: Mao
+Name: 微信斗图助手
+Sponsor: admin@25mao.com
+
 Package: com.c1d3r.PullOverPro
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -202,16 +236,16 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.ios.wechat_1.1.0_iphoneos-arm.deb
-Size: 594324
-MD5sum: c353bc40d2995e79e754394491705574
-SHA1: 92131510d039593cba1dd71a3d8f1283821ee6b2
-SHA256: 9e0dc16a2c4ac28ab1f50a4011470da8984a9d328a8185db7eb28f2ea4aee065
+Size: 594636
+MD5sum: 5d767ccb776abb6ca17537e661de556a
+SHA1: 7bf707efe0f74bbd0d0551e929018f716b82f790
+SHA256: cff36e869e368cba8cb5c9a68e033f90e088b28de305673aaa02f377a72c5c00
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Description: 1.1 版本仅包含免费功能，收费功能已拆分至 Voice，如需使用收费功能请安装 Voice。1.0.9-9 为最后集合版。购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
 Author: Jan
-Depiction: https://twjacy.github.io/wx
+Depiction: https://twjacy.github.io/wx/wechat.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
@@ -250,17 +284,20 @@ Name: PullOver Pro Keyboard Fix
 Package: com.wechat.fzye
 Version: 1.5.9-6
 Architecture: iphoneos-arm
-Maintainer: Jan
+Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.wechat.fzye_1.5.9-6_iphoneos-arm.deb
-Size: 1360748
-MD5sum: ca072eee81ab5e0fdfa6e5ceb20ac3da
-SHA1: 20e3b769e3fa97975b2f8df1e8d26d2155314484
-SHA256: 41bb20bbe763b5ac0e7188057573095f22291990551cab0b871c0bac348d99a1
+Size: 1360600
+MD5sum: 370294f0d3c86e28d0d49b6add0972cc
+SHA1: eb9bdc48388151e2ff596cb62d41ee5bafa2c4d5
+SHA256: db275e2f6ef72d4dbf70bbb722c6128b56076c0f8aafaaa7e6c2a5d23cdfadf1
 Section: Tweaks
 Priority: optional
-Description: 微信插件
+Homepage: https://twjacy.github.io/wx
+Description: 微信插件 1.5.9-6 不再更新版，如需新版请安装 WeChat 1.x 和 Voice 1.x 即可。
 Author: Jan
+Depiction: https://twjacy.github.io/wx/wechat.html
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
 Package: ios.jan.voice
@@ -288,16 +325,16 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/ios.jan.voice_1.2_iphoneos-arm.deb
-Size: 486720
-MD5sum: d242087e8f11f3b1534097afb0cbf526
-SHA1: f3226273df93d2137851d000c570a658836c251d
-SHA256: 3918d7468b94e519f62742e14eb913e988c9b53608613e31ea8762ed48b529de
+Size: 486696
+MD5sum: 3a11f7b0cff75648f96d58c239676549
+SHA1: 465e1c1a38cfa2d744274a39503db0ea9691c8c3
+SHA256: bdfdd48a750d22da104d3cb9f2e1b4f8112b822253c3d6b8d5008a1b85f4e1ba
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 聊天界面长按右下角“+”进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Description: 主界面左上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
 Author: Jan
-Depiction: https://twjacy.github.io/wx
+Depiction: https://twjacy.github.io/wx/voice.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: Voice
 
