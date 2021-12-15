@@ -306,16 +306,16 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/ios.jan.voice_1.1_iphoneos-arm.deb
-Size: 428888
-MD5sum: 0df746dffd9a931df5fb3b3bb5a0a6d9
-SHA1: 0c2a756d86822702d236fc332398e4e35d82bce7
-SHA256: bea329b58bd3c45320d76d49fa983501aaf8b028b958b0bb6110f72bc5ff19d2
+Size: 428664
+MD5sum: 4572ef3615b25e2fdf1f047198ac57d4
+SHA1: 64d3dacfaa2a316f9f68730ee10d4712d5122420
+SHA256: 3315bceef6aa37f7b49173a5411ac95956ab7ecf9d1aa3a7a395b1fce85badef
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 聊天界面长按右下角“+”进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Description: 主界面右上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
 Author: Jan
-Depiction: https://twjacy.github.io/wx
+Depiction: https://twjacy.github.io/wx/voice.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: Voice
 
@@ -325,14 +325,33 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/ios.jan.voice_1.2_iphoneos-arm.deb
-Size: 486696
-MD5sum: 3a11f7b0cff75648f96d58c239676549
-SHA1: 465e1c1a38cfa2d744274a39503db0ea9691c8c3
-SHA256: bdfdd48a750d22da104d3cb9f2e1b4f8112b822253c3d6b8d5008a1b85f4e1ba
+Size: 487152
+MD5sum: 655e55735aedf9e6410872278bdb558b
+SHA1: 01c02ad175a6e16f95722da9d64a09b4c59a3a0e
+SHA256: 5ea5fba3956dadd4c039c4807fa9da4f3f6f548cc008dc6572934e689c42ca00
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
-Description: 主界面左上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Description: 主界面右上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Author: Jan
+Depiction: https://twjacy.github.io/wx/voice.html
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: Voice
+
+Package: ios.jan.voice
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ios.jan.voice_1.3_iphoneos-arm.deb
+Size: 489320
+MD5sum: 960a3deb477c643b988a1b9adfa904f5
+SHA1: af931121cf65c4440cf4211195dd738e8c7754f6
+SHA256: ed75bfd5a362449156d396217a9da237dd0df1f62bc3d8bfb072f40f4ae1f358
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: 主界面右上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
 Author: Jan
 Depiction: https://twjacy.github.io/wx/voice.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
