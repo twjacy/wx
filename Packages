@@ -338,3 +338,20 @@ Depiction: https://twjacy.github.io/wx/voice.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: Voice
 
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debs/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 649864
+MD5sum: 5e955e26724e79ff8ca45032679f9cd9
+SHA1: 7fb5d1a3982b471a2af9e47e904d4d0519df3a16
+SHA256: 96491acad71a3696950acf68b06075c04a8e3753164221f7e8f16fe7ca528419
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+
