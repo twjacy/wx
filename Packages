@@ -1,17 +1,3 @@
-Package: apt.deonrepo.net.pulloverpro.tw
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.pulloverpro.tw_1.1_iphoneos-arm.deb
-Size: 2080
-MD5sum: 264498fc1a9e832ffb750a89ddfb8c40
-SHA1: 5c881f7e3216abae0649440724a644db040491f9
-SHA256: a28a8f0e28a6028b81df62c1509dc3fdf408871d7056d364613f6f06adbb4836
-Section: Localization
-Description: 為PullOver Pro添加繁體中文/簡體中文語言體系
-Author: Deon
-Name: PullOver Pro 繁簡中文包
-
 Package: com.25mao.MiYou
 Version: 3.1-8
 Architecture: iphoneos-arm
