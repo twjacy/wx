@@ -69,6 +69,25 @@ Depiction: https://twjacy.github.io/wx/wechat.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
+Package: com.ios.wechat
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.ios.wechat_1.1.1_iphoneos-arm.deb
+Size: 591140
+MD5sum: 86f36253d08122682b5214a43a1e5169
+SHA1: b2836377396154ea1dc645b234efde2873f28a09
+SHA256: 9330854ecb2b11565ce34d9352e0f49d77646b4cfbd971926d50ef7103cd33bb
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: WeChat 仅包含免费功能，收费功能已拆分至 Voice，如需使用收费功能请安装 Voice。购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Author: Jan
+Depiction: https://twjacy.github.io/wx/wechat.html
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: WeChat
+
 Package: com.rpgfarm.libapappview
 Version: 1.0
 Architecture: iphoneos-arm
