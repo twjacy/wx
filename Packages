@@ -1,3 +1,20 @@
+Package: com.25mao.DouTu
+Version: 3.0-4
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.DouTu_3.0-4_iphoneos-arm.deb
+Size: 920404
+MD5sum: c6eea63cb9f96090fb25152344f32d1c
+SHA1: 24eb9ea00480f2e7529d5d1a26ca1d2547daad16
+SHA256: 52b13a9b5f917b77c229a1d168f5aef91601a94262a55142ec9704a08c97caaa
+Section: 微信插件
+Priority: optional
+Description: 老猫斗图，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
+Author: Mao
+Name: 微信斗图助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.MiYou
 Version: 3.1-8
 Architecture: iphoneos-arm
@@ -13,6 +30,40 @@ Priority: optional
 Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
 Author: Mao
 Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.MiYou
+Version: 3.1-9
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.MiYou_3.1-9_iphoneos-arm.deb
+Size: 3727016
+MD5sum: 46f93ff4bb572b7f4f0349652cc6655c
+SHA1: 0caa06d7f1e4ea679a7a13fce24fd1e71add5c92
+SHA256: a7d44bfe5ecee86e0f0c86ebd93f26f477e3299455a75a2decc8feefd13edcff
+Section: 微信插件
+Priority: optional
+Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.MsgFilt
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.MsgFilt_1.0-1_iphoneos-arm.deb
+Size: 111556
+MD5sum: 457e0feb14ae70d9d7788f524f3d23dc
+SHA1: 1f32f27d488c1d26d01f71cd58730659f1d1a5b9
+SHA256: fe67c4f49dc1be59d82c693b263f3c0d9cb47359a8ac3859188edfbb7d91e9d9
+Section: 微信插件
+Priority: optional
+Description: 老猫消息屏蔽，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
+Author: Mao
+Name: 消息屏蔽助手
 Sponsor: admin@25mao.com
 
 Package: com.25mao.doutu
@@ -145,6 +196,25 @@ Depiction: https://twjacy.github.io/wx/wechat.html
 Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
 Name: WeChat
 
+Package: com.ios.wechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.ios.wechat_1.1.5_iphoneos-arm.deb
+Size: 609972
+MD5sum: fa3a16507bdecdaf40ce1ede3738e924
+SHA1: 14e53c83331be9d29826e90f61e4fba21a3fbe29
+SHA256: 66c3ba9770932f5057dbd7117071a06d6cccc45404f7a7ae1531280f9d84d77b
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: WeChat 仅包含免费功能，收费功能已拆分至 Voice，如需使用收费功能请安装 Voice。购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Author: Jan
+Depiction: https://twjacy.github.io/wx/wechat.html
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: WeChat
+
 Package: com.rpgfarm.libapappview
 Version: 1.0
 Architecture: iphoneos-arm
@@ -263,6 +333,25 @@ Size: 530900
 MD5sum: 5d6fa3c328714ae7cb9bbe4368c14926
 SHA1: 9965d5bd45bcef243f0f98cd80780e7f62d68c47
 SHA256: 972819160021002d565e4aa77182ddd40fce9a2f540d1d0d2839c641f61d7abc
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: 主界面右上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Author: Jan
+Depiction: https://twjacy.github.io/wx/voice.html
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: Voice
+
+Package: ios.jan.voice
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ios.jan.voice_1.4.4_iphoneos-arm.deb
+Size: 535076
+MD5sum: 464574d9853d1d47108600668e4d5215
+SHA1: 877d29ea2f8888cd530a33c65f984fb2c6871a80
+SHA256: 7efbed0bdad43c30b946084998ea673689a5aac58f15330d4af11a249caf8570
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
