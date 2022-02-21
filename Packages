@@ -4,11 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.25mao.DouTu_3.0-4_iphoneos-arm.deb
-Size: 920404
-MD5sum: c6eea63cb9f96090fb25152344f32d1c
-SHA1: 24eb9ea00480f2e7529d5d1a26ca1d2547daad16
-SHA256: 52b13a9b5f917b77c229a1d168f5aef91601a94262a55142ec9704a08c97caaa
-Section: 微信插件
+Size: 920260
+MD5sum: 30faef7e17e18ee641d44a94f612c41e
+SHA1: 4d9e8f36531e6cf193f4e8ac4d81012cbf506fa9
+SHA256: d9757a752cb853aa55d9a8535ab79ce58bcbd8c440b2539464a8fc17706dc38f
+Section: Tweaks
 Priority: optional
 Description: 老猫斗图，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
 Author: Mao
@@ -16,33 +16,16 @@ Name: 微信斗图助手
 Sponsor: admin@25mao.com
 
 Package: com.25mao.MiYou
-Version: 3.1-8
+Version: 3.2-2.1
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.miyou_3.1-8_iphoneos-arm.deb
-Size: 3879088
-MD5sum: 839cc67d5b6a22498c0e7481a6f7310d
-SHA1: 8511c4f1d277b0bd7f1a053194d741f3d51585c8
-SHA256: 5c9d522618486a3d181a8a8efa52fb820993048b89738b6dec44617964cb18fe
+Filename: ./debs/com.25mao.MiYou_3.2-2.1_iphoneos-arm.deb
+Size: 3929420
+MD5sum: 60d2cece5f24b29b4b1355f1ce7ca05e
+SHA1: a524a0e7589448ef54d321a887fefcabe6e4c71c
+SHA256: b5cf1294fa4c40fa6a3b002fe35b969b6950cfb922ebf9a48153ef409ad81db9
 Section: Tweaks
-Priority: optional
-Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.MiYou
-Version: 3.1-9
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.MiYou_3.1-9_iphoneos-arm.deb
-Size: 3727016
-MD5sum: 46f93ff4bb572b7f4f0349652cc6655c
-SHA1: 0caa06d7f1e4ea679a7a13fce24fd1e71add5c92
-SHA256: a7d44bfe5ecee86e0f0c86ebd93f26f477e3299455a75a2decc8feefd13edcff
-Section: 微信插件
 Priority: optional
 Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
 Author: Mao
@@ -55,32 +38,15 @@ Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.25mao.MsgFilt_1.0-1_iphoneos-arm.deb
-Size: 111556
-MD5sum: 457e0feb14ae70d9d7788f524f3d23dc
-SHA1: 1f32f27d488c1d26d01f71cd58730659f1d1a5b9
-SHA256: fe67c4f49dc1be59d82c693b263f3c0d9cb47359a8ac3859188edfbb7d91e9d9
-Section: 微信插件
+Size: 111772
+MD5sum: a7e42ec45710bcf9bb2dda98df31bdbb
+SHA1: bae784fe55aa74119b855c2cb31cf5655ad190c4
+SHA256: 6aa31d28f2d23562eaad7db649ef6eaf4dd17e4a8ea2a0916bdd5351a5a7e76d
+Section: Tweaks
 Priority: optional
 Description: 老猫消息屏蔽，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
 Author: Mao
 Name: 消息屏蔽助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.doutu
-Version: 3.0-3
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.doutu_3.0-3_iphoneos-arm.deb
-Size: 916872
-MD5sum: ae372b0f9e2b6b8e2725e7d97323101c
-SHA1: 46bba28aac5ee40c6018b89dd0a3e3f6fc3f9d4a
-SHA256: 6afd7d3cb29d2aecab12969a8741687702792f3d5734daf5a7c6580e788e5cd6
-Section: Tweaks
-Priority: optional
-Description: 老猫斗图助手，仅适配 Sileo 安装无红字，个人自用，如有需要自行安装。
-Author: Mao
-Name: 微信斗图助手
 Sponsor: admin@25mao.com
 
 Package: com.c1d3r.PullOverPro
