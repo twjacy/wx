@@ -1,105 +1,3 @@
-Package: com.25mao.DouTu
-Version: 3.0-4
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.DouTu_3.0-4_iphoneos-arm.deb
-Size: 920260
-MD5sum: 30faef7e17e18ee641d44a94f612c41e
-SHA1: 4d9e8f36531e6cf193f4e8ac4d81012cbf506fa9
-SHA256: d9757a752cb853aa55d9a8535ab79ce58bcbd8c440b2539464a8fc17706dc38f
-Section: Tweaks
-Priority: optional
-Description: 老猫斗图，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 微信斗图助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.DouTu
-Version: 3.0-5
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.DouTu_3.0-5_iphoneos-arm.deb
-Size: 924308
-MD5sum: dfc0722106ff9eeffaf0c53f3dec4883
-SHA1: 0c243ba77173c0132767f84bbbbe868cf0479007
-SHA256: 3e18590f1ff5ac6926a8191886de1233bc33c4f7de3de4f5e5fe7ee3c76cc492
-Section: Tweaks
-Priority: optional
-Description: 老猫斗图，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 斗图助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.MiYou
-Version: 3.2-2.1
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.MiYou_3.2-2.1_iphoneos-arm.deb
-Size: 3929420
-MD5sum: 60d2cece5f24b29b4b1355f1ce7ca05e
-SHA1: a524a0e7589448ef54d321a887fefcabe6e4c71c
-SHA256: b5cf1294fa4c40fa6a3b002fe35b969b6950cfb922ebf9a48153ef409ad81db9
-Section: Tweaks
-Priority: optional
-Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.MiYou
-Version: 3.2-4
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.MiYou_3.2-4_iphoneos-arm.deb
-Size: 3973448
-MD5sum: b662935f810d5b6ad65ece45dc04dba0
-SHA1: 4e4c7f3ad16c30b9282324b260391a858c09c9cd
-SHA256: bb279bfd38aeb8436bc004443741682e23b07ec3a6a2eb21e3fd42b021162788
-Section: Tweaks
-Priority: optional
-Description: 老猫微信助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.MsgFilt
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.MsgFilt_1.0-1_iphoneos-arm.deb
-Size: 111772
-MD5sum: a7e42ec45710bcf9bb2dda98df31bdbb
-SHA1: bae784fe55aa74119b855c2cb31cf5655ad190c4
-SHA256: 6aa31d28f2d23562eaad7db649ef6eaf4dd17e4a8ea2a0916bdd5351a5a7e76d
-Section: Tweaks
-Priority: optional
-Description: 老猫消息屏蔽，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 消息屏蔽助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.MsgFilt
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.MsgFilt_1.0-2_iphoneos-arm.deb
-Size: 106780
-MD5sum: c5d1c834b5472aa051f70d0f01c69c00
-SHA1: 46964d56acd1ff754ea86f30399746145155be44
-SHA256: 55216e2f4c2029c61ad19ed1699d67f9c7fbf88a43fc714ecd9f83ad40495e7d
-Section: Tweaks
-Priority: optional
-Description: 老猫消息屏蔽助手，仅适配 Sileo 安装无红字。个人自用，如果您也需要，自行下载即可。
-Author: Mao
-Name: 消息屏蔽助手
-Sponsor: admin@25mao.com
-
 Package: com.c1d3r.PullOverPro
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -407,6 +305,25 @@ Size: 611180
 MD5sum: 708c4ebeff7d6a6eacf0962a3ff8cc76
 SHA1: 1bc7c79e4c25f63b7391d10f979ba6e69813e92e
 SHA256: 50439443ba2885fad9510be971eb2cf85648370d9169495f802d6087dfa01afe
+Section: Tweaks
+Priority: optional
+Homepage: https://twjacy.github.io/wx
+Description: 主界面右上角 “+” 获取授权码，授权后上滑退出再打开 App，聊天界面长按右下角 “+” 进入功能设置，微信插件，购买授权联系微信/QQ：5889650，QQ 群：58128869 公众号：Jailbreaks
+Author: Jan
+Depiction: https://twjacy.github.io/wx/voice.html
+Icon: https://raw.githubusercontent.com/twjacy/wx/main/CydiaIcon.png
+Name: Voice
+
+Package: ios.jan.voice
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ios.jan.voice_1.4.7_iphoneos-arm.deb
+Size: 616632
+MD5sum: ece9f0b86469519db61d6aeab8efc15d
+SHA1: 13b4dc827ded463f58ace668e860fcf1d9b4740d
+SHA256: 2ff087d54e115ed6ed49ea130c43d995655ecca961587738a0a520f43dcd026c
 Section: Tweaks
 Priority: optional
 Homepage: https://twjacy.github.io/wx
